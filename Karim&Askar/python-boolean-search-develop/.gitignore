@@ -1,0 +1,8 @@
+test.py
+venv/
+env/
+.idea/
+.env
+*.html
+
+__pycache__/
